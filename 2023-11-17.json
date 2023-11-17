@@ -1,0 +1,26 @@
+{
+  "name": "Gavin Brewer",
+  "age": 43,
+  "address": {
+    "street": "Bepsag Avenue",
+    "city": "Unavicav",
+    "state": "WY",
+    "zip": "73241"
+  },
+  "contact": {
+    "phone": "(724) 716-6935",
+    "servicePhone": "800396839"
+  },
+  "birthday": "1993-02-28T06:00:01.888Z",
+  "ip": "140.18.113.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Vacran hes nuif aculic devutu pa ge owe hiswu jut paliv jinudoki vi. Riwe canu new sijoc mu wene su zi wiral ofo mazo zutu terarwi gaf hobrehej bi zalar tu. Buphatme tap az inzecfep je ahfucaz becemzaj sowac wendo voofwuc moj pe nujge duw ofko.",
+    "bio": "Onaja pifu la kijkocnug ofeh biw luduta wuz apageh kimiuzu jivju hit dal vej zad vavvikke. Hah do gesmafu ho zuwza annemsuj veje kagni geumi kiddalba har jasbuid oc zu lizub. Samuh iwius keju haiz vaicovep sisizeg rizetok gofec loble ko ano lud johwew loz ovko."
+  },
+  "apiKey": "335cf8789b3a8a7508338026476ad2ae8263683bf3fec7d6fe60651e60d2f28a",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
