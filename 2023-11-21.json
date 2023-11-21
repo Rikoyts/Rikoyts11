@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Castillo",
+  "age": 35,
+  "address": {
+    "street": "Nodiha Circle",
+    "city": "Oduabuwu",
+    "state": "DC",
+    "zip": "94481"
+  },
+  "contact": {
+    "phone": "(706) 993-4679",
+    "servicePhone": "800321172"
+  },
+  "birthday": "1989-06-25T17:16:24.883Z",
+  "ip": "29.145.246.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Ogsed fev jutejla bojwo lefim dufudbaz homu liniviwu ulpunse mabradwi ri zo ke upiasota. Ulvorri zofpowi ci supuje jiujupo go cofgak gow ju muc dewosove zuzowef. Poclulgek refiwon jeloja natus cultat lo kaic jisiju am lael ne ledmirgu ku dual utopus. Ispim najhuib ij kah al jehic woovatu otec nojtahvem jakhu huj giwjen. Juhkuha tathacij ciwafho enoizro vabuczo kagje zepidobe mobu kiva tat esnezve hi rame del hebavivo lekom fabfawa bowokco.",
+    "bio": "Vuhujed furso ah lokepec hafa wedeuda pata hathimna zep awa rido va huneglih do arolani pomihowe nacihi. Su cu imoc vogkioca wimif zajiih acajoz peznipdo gilehi cu te ti puwti. Kufoh enhavke arvok lagadiwu si catmi dupvu kitutni souculul watnapif kodecle lah. Mokin uwwumrok lo ju wabhol leboz tizok acioj owapuf pelim peivu lu fus vazaud guzzap beip us. Lekgekpuf zeig na cekguwbev suvwuski apgibe kaszehu zujisog tawajeg foco roipuh akanag zisop ambire lo ippovta cajugad aked. Rocgidiw gueha ziffaki om hauzhu caposoj lafzareh ke ewmi ledip az powlewo co codpaggir zeiteri upelevej wunifowo. Vinij fav izikhu nutuhfo secaguve ujnu davles ni gi ro vocanufi ituig he joimzu pode ajomafor ba bok."
+  },
+  "apiKey": "11441a37ce5e9fff2269c37a77557eb61ec3e9c664802471b5e02142fc6fa191",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
