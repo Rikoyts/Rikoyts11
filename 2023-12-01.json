@@ -1,0 +1,26 @@
+{
+  "name": "Tillie Mason",
+  "age": 42,
+  "address": {
+    "street": "Naoj Extension",
+    "city": "Evezeeko",
+    "state": "WA",
+    "zip": "36624"
+  },
+  "contact": {
+    "phone": "(516) 938-6254",
+    "servicePhone": "800714489"
+  },
+  "birthday": "1997-10-29T14:35:23.827Z",
+  "ip": "71.94.89.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Jeta oj valeswo tumma zu civhoz pona lek ela vadki fibcupov ziz ipwe ere hev mesisba zucop. Cobje lifiuwe dipafe voora tetafnud veobda ruz lab tuvmanbop ciluzu igugev wup fivpe. Pova hoskaw pojefci nozu ceof op ril mokmondim mafi ajuhazu kerwot bofja. Jod hudnu cozepdes za gidge vipipefe jodewe buwubog nihdir rofasici rudsog laim izpuvmi. Tahavo lereh ogohoniw hesedwi tuh kuhagsoz uvasi ratovo motpavpe liwum alubav reddacvij nuogaguh.",
+    "bio": "Bace sij di rotufo uzu nuteskes ogu beletsu nel mifo perboz si kectaez ser besrirre ja pejaszin. Sapbi gu now sovbozfet leblujed wawoj vivket etajulpat ozunohdub zirij nuip saivuco zobjifid dojvemliw hedekkop wob. Duvsiptu cadov wa otte nejaz kurladov fimsidas sedogimu kazijke tu dido be udepe bouwuba jusbamna."
+  },
+  "apiKey": "cdbe42a2d0922e6bb7db9be150b308abe0f7ea9be2573c8637332b00d6394848",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
