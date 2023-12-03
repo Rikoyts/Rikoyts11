@@ -1,0 +1,26 @@
+{
+  "name": "Carolyn Carson",
+  "age": 44,
+  "address": {
+    "street": "Raklo Point",
+    "city": "Logajwe",
+    "state": "MA",
+    "zip": "42830"
+  },
+  "contact": {
+    "phone": "(485) 822-2103",
+    "servicePhone": "800797625"
+  },
+  "birthday": "1967-08-23T02:24:50.135Z",
+  "ip": "30.137.124.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Baajule eduiz ohba giza ga ecu newgewiwe ogi ra tu zilba hekidpa nusukad. Avefa umaace libolzat licdij toregga wucfa ganasol adawuffuf simci oncebik rer mic. Curazgo cap ceoki ege hewimvo po wovo per icuzopbo bo or fi ceza ibame san zotla.",
+    "bio": "Fifodaeb fi wadcotwer fesve bas duzleg savada juzzi danroz napavig ezode zawih jo menawkam murhejo. Modpuwof bulkuan duffofgen lozec ga fahhat kiema lim rofkut tuckif jumcu awinasom hitfe fuj iw edu wiko cogzit. Durzil curramik hizok tohceb caiza bobazsu sikijawu kudojkom segehu ubura fehawot wekej ru ipcewzuh rato."
+  },
+  "apiKey": "b9aa6c573510988a5bccfa0ea03d927973a57b46b69b9f93f837a036582af7d2",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
