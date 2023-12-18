@@ -1,0 +1,26 @@
+{
+  "name": "Terry Herrera",
+  "age": 65,
+  "address": {
+    "street": "Olzop Drive",
+    "city": "Tiszukha",
+    "state": "CA",
+    "zip": "10847"
+  },
+  "contact": {
+    "phone": "(772) 527-4331",
+    "servicePhone": "800587146"
+  },
+  "birthday": "1989-11-12T10:37:43.313Z",
+  "ip": "108.234.33.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Ke tutefu wo picipu za nul jorevuer cij cokbac givwedi cap zehow devcof sen. Caban kejipon voudruk fajab lelgi gugmap gikna pipsaj ik si po juero kawec bajapmu niusu fa fawudnis. Abgohge lud ne fe kas bivkuc nelevve cema ti ruhvuf jeitu da.",
+    "bio": "Dopul ani farzupa ribtispip nuzicko kufej kaegvaj volonpa ahu nef sus je agza nojgi ivo. Ek po gonohfir vov veloszur ahe ullim hizaen hueru evobuzedi bitol barinu vuppazeg ic abu. Lejza loud edabobu digla azcema gewno owezani vevosaki fic su ewzuep azboc. Nez tifujako luz wavgav mul beafdo leguka le gutut ofumop sakup neugraj pewpowpow duwzes refebcow upo."
+  },
+  "apiKey": "656995dfd60516f3320fc8fe2e49c6d1f577993208c4e4fcc3fcc9cf85b14e5f",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
