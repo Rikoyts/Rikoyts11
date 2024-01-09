@@ -1,0 +1,26 @@
+{
+  "name": "Luis Montgomery",
+  "age": 24,
+  "address": {
+    "street": "Hurad View",
+    "city": "Firzavik",
+    "state": "WV",
+    "zip": "52366"
+  },
+  "contact": {
+    "phone": "(624) 447-9904",
+    "servicePhone": "800396786"
+  },
+  "birthday": "2004-11-13T01:05:58.904Z",
+  "ip": "30.104.231.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Muvinbo fagon sor ucibihfem ti esihafoc oz le vogdelaw ebbipfel du tumavu nek sikcin jettut. Ce wi obo vi som popoh vupi ore nahlapsip wazed veciuv pinasi arza eg hida mimjid nug. Miwukjis noob johas ac subedec tenavemo cana pulzojtur kuokaeco acibo pirsajnu tozi jowow lupibuvi vejudim iv.",
+    "bio": "Gujjap epa tojok nuorijic fa kavvutju oj cusu pupvucceg fivlo tikeeju tiuke udaimenej akkub lagpe ji curjuk. Uzak pilfu fatpoto be ha kuzda re favfunep zaz nusudsi ubeupeli rohirol. Uja dav hocajcih are salet vi mu ced lasnuf huezno za fobon lo dukjaski iwomi bugva gerinir amu."
+  },
+  "apiKey": "2df6c38d4f2eb9a4858326f50c4c95a64a5d12e4a779453989eef2fc06f6b15b",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
