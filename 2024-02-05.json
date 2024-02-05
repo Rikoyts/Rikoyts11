@@ -1,0 +1,26 @@
+{
+  "name": "Sara Miller",
+  "age": 35,
+  "address": {
+    "street": "Behe Junction",
+    "city": "Ritimi",
+    "state": "ME",
+    "zip": "74984"
+  },
+  "contact": {
+    "phone": "(300) 901-2717",
+    "servicePhone": "800398555"
+  },
+  "birthday": "1960-06-05T10:32:11.550Z",
+  "ip": "25.225.234.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Zos zo fac jejsuc zihap pam lifef zijfuw afofunavi of mu gelin zam ce. Zikohiw kehnobbi tenwu do badahug huip vu zo befde kultuzcuz ga jolu nepov dimdob. To ezauveani sutzilri co fakap acguj od ife howug ospuse zac goz hutabmeg sautju sek ijivuhhi marraci.",
+    "bio": "Gicbef kogidiw wajonemi pewukelo vuike lib oj kucgu ucu geplinwuv al huzjap. Dohuno do noviz revaho idevasit tetkuku ogikokos onhi puzuta zes jaavubem voko nugial vopnep. Onuus dohesah fog zum mehedasa ju bowsa te wa ojuerwa jor ab mameczed hic amgon ajoiganac. Os ebahej iro ihi ossil ema sacmubdap maubgod haupi if dubof jis tuj cotat vuwco tevuva ratsihuh. Elidiwed dudafko ruke nev ih uwju vorta ahhu fezju ekpieba vef big ike wa ujbo. Ba po ug ruluses odho me foimibel ecsad ti igutupa vewal tew cojofajun. Hegdi anadez iteke hi gopu tiriwub ejibe meuw lokagol mag hivibuhi tubiz ihi tozatbi uma wiiz soldu."
+  },
+  "apiKey": "0f643f6036b69a359cfe4e4b9802f52bbda6ebfbd81b8056ee2d3481974da63b",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
