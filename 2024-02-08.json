@@ -1,0 +1,26 @@
+{
+  "name": "Myrtle Collier",
+  "age": 21,
+  "address": {
+    "street": "Nate Key",
+    "city": "Fogefi",
+    "state": "MS",
+    "zip": "88099"
+  },
+  "contact": {
+    "phone": "(952) 885-4242",
+    "servicePhone": "800753327"
+  },
+  "birthday": "2006-08-14T14:56:16.874Z",
+  "ip": "142.234.8.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Buewabi gip jiz pef ziv gaw kepona ha note bi ofegen bo. Su seci polbo egoamje ko pi okebasza pimbuka rasnaw nitowdiw odnu dikafa ulwaw vucajin etwa oca po. Rovu awesa mu tumgofib tutfocuc dumepka cemjelo faweabi zon figtoape penecjah wiv vawfathor cacwun.",
+    "bio": "Cuk kiegbu sazweptis erjo daziw labcesahi sunuuka vu lol odi jize paviwud uko vosil wa. Aropul tupi bijduf geocofo moze fegma olasi mazaada men bez weni tipife kiwa min visraliwe weknih fodazhun. Lawrauh rakhar jeab mazpowlaf madok dilekeig wov ow cisig cepvaaji rik ocokuri bojo muvogu atidaku zivje."
+  },
+  "apiKey": "9c01be3a8f440c4d4829c829a1e8aeb56947a52487dea850d108ebc58563e533",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
