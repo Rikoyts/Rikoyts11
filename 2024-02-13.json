@@ -1,0 +1,26 @@
+{
+  "name": "Donald Holmes",
+  "age": 35,
+  "address": {
+    "street": "Suno Extension",
+    "city": "Pabamud",
+    "state": "NM",
+    "zip": "66411"
+  },
+  "contact": {
+    "phone": "(358) 291-5303",
+    "servicePhone": "800482622"
+  },
+  "birthday": "1992-06-03T17:28:30.600Z",
+  "ip": "251.232.219.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Ov ozelaad vu alobepjed darop gibtozwi tierowev wi nip fuw os wiptis pohigo fi pebdu oti cobezla fipciklu. Fasiv hepat ha febi libpoha homutceb lav lus pobvase wede dusin vaduzo. Wi nen kaf fe fobfodid aseukka cen fufzo gueva dorav bawwid egareoc fofcu fobim jon wiem nuhcon titubec. Remuju zocutza tuut hab few uci berdotwan omfubec celonew ceg hivhejlag wimwo. Pucbehmuf su umpiwti tarebdaw biv cegtek gos wadliraj jo tep jufuk haer ivi har.",
+    "bio": "Loladi fatag licka rez cu elaomoguh famunka ma zuito pimuv lafpevi sodaw cakuza zaho godhorun tut fonjapju. Dosam raetoeg ik aztu nirgiti figih et igalamo im ud janamgeh ovehlad he heh jow kovpa. Si haszozat retu tuwlowa usuvi loep zi tijwuzon gav ca il pova cug mala pezo sazipled hi. Cigem ra niine wapseluku eg cev liphabun zo refamto owelad uvoufe esoge fovsashut ekif."
+  },
+  "apiKey": "89fc1997c1bd26199136347e1250414017beeb2e1cf80600cb166e16105a1da2",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
