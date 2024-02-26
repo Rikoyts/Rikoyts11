@@ -1,0 +1,26 @@
+{
+  "name": "Peter Banks",
+  "age": 21,
+  "address": {
+    "street": "Toje Terrace",
+    "city": "Mamijo",
+    "state": "HI",
+    "zip": "72973"
+  },
+  "contact": {
+    "phone": "(428) 223-2851",
+    "servicePhone": "800175226"
+  },
+  "birthday": "1994-10-09T01:43:41.493Z",
+  "ip": "26.149.253.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Zawejbis biz wa lel vuif hifo gobze petlu opbi vej osdu bo petemher filrof. Etnumre kaeznah ubsam wamboru ta ipaukiko pubcem epuhe doupa tivvuzgel mojadki fuon cuah kapbe iwaujezi dodwa. Haemokak zar himbo uszizufi cobok zoteduj dar mepi lipifa zednaka saf iz numad kowifu ed veskebi soocfor.",
+    "bio": "Ibpa wiro kidubloc no cufdul burwo keb fi lacre lirofpul fobkammik corzo zi matuhzi muc. Dezdusit bak wo pujuslu ihiocpak jikut ja omjajnod jatki tobovuac rah izvos iwfacda ewebow atavut kir kodbit. Va co rob fehet joivme buuzpaj atimikeb doocniw vu aw ip gohri suhsicik gi cosog ubufipwa. Regwa fadi kableme timacdi lave guz giv toibdip bopjorsub nit raarfod vatzihso. Cosro lobbatare ka cobagubif to ajuzuwop efori kuffeg vit edeaj ferwusan ja zijvas hukelu vezpudete duwugu."
+  },
+  "apiKey": "734a4ed7cc1f4e5c873ff466814aba7db487dd3afaf9a57249bccf3edb0316a8",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
