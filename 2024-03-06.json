@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Caldwell",
+  "age": 18,
+  "address": {
+    "street": "Abawic Mill",
+    "city": "Podunwol",
+    "state": "GA",
+    "zip": "01411"
+  },
+  "contact": {
+    "phone": "(855) 800-7440",
+    "servicePhone": "800688791"
+  },
+  "birthday": "1994-05-01T21:07:56.316Z",
+  "ip": "114.132.61.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Wu mello pijekuk imu kuide da umvalzin doksigka hahpepa zon zaz vejpo vigu diuz. Ka puj pa zozjinbo bucseh oranel zuzob fazuz gat deucura hoedloh viliruz ti ih nuh pu desudereb na. Mu imizu sozto ci fam adru pun za gokapo covtoril mejodud bab anka. Ciwdaf tonadhe umo ezsaup zof wurafcis do saoheteb ipewagigo bonte iwvadba caoz utuf ramsun hoabape dadajavo. Fupe ga apegaf gumujeh ukulede hab jutab fozijri vukmedo ofbu ducder cok.",
+    "bio": "Corkun jiz wonut bur ife rop avameve akocopa kib caan madsaen uko fuw zonketog. Ceudaemu dogewafe rik donwipew je oga sujsilfeh nenlaed wok awo vez jemdargez gejuje wuumhah jagitaj valnovu wepkiru meb. Cuagu no itiotowe resri co kizoune vusaote melob akhuk dogge dub lilozfum tamioco vi vig vah jiw mem. Mumetva ezzo ti wahu ija kifpahgim esren fa haruko ivtu odeosne voobir sivu. Ib ikahibse zugudfog gadina bujboh comagca lewawfu ugfo nanhop wefevce vokzike ta."
+  },
+  "apiKey": "b756288602db850427e06879e61d69623dff7579d2dd38eeac4bedab138cc5c6",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
