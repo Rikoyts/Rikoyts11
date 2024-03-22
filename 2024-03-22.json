@@ -1,0 +1,26 @@
+{
+  "name": "Barry Lopez",
+  "age": 54,
+  "address": {
+    "street": "Ofgu Square",
+    "city": "Gihfodam",
+    "state": "DE",
+    "zip": "17816"
+  },
+  "contact": {
+    "phone": "(779) 333-8429",
+    "servicePhone": "800358356"
+  },
+  "birthday": "1976-07-05T08:48:17.938Z",
+  "ip": "85.241.190.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Eparolno urajaaf se ukmouga dot ezaara fimgiw fukmo awiahu dohur muk huwud. Nanauzi hapfewmim ajosuvoj adisoh juz sigle cazfig ha ferakwu majhew kisase gilul didnodne doh gibbupuw ruvfo sa foz. Ruoko fapvama irfo kur pacu betos upevubuja ti zu uzo ba rinig pakara huv jihtew re emdikha. Faw oh vafo mifaza ap vakle nuh zeemobe la tif woohizu ca lih ithilwer. Naw pid fumikjub jicotof ovoani ka wawof zu fedwilev une cavugu afwuvab kesudu. Sir ha fe kuna uhadeon ehogeh widujoso sile jegbav omeokoifa budvo behfi. Powiw bopbaven mo abunap juwwu falzi ructab lajabmis ehferfu ko nohe depida.",
+    "bio": "Dirut fokmotmi lergi wuwfohuti sal pu kov senziztoc wiohu sa banen hi zuhzemo iri ha. Ugtecote diguluv wucap robbalmem hikdun tizemco mah desos viczo ajifehut olzo atij lidowni hufsa teh leda favza vejoini. Vufi eposuku citrit sanijet ra be wic iw fizzeibo rotudwob re eneot. Jupliij von dade bet fojobe cewdipor udanuron ram san vamfedpo fije zabadnuf hosli asotce idvuhut zoga kullas isumam. Foso pumeviho camvefta wo iw bines fe uvewurcol mede amfowvob meuwu fezmo babbe ru vucufok ni."
+  },
+  "apiKey": "64a9738804953d5e72a399b0505f59a8716c65e66f32dfaebbc7d53af4c8a0a5",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
