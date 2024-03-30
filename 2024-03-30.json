@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Aguilar",
+  "age": 55,
+  "address": {
+    "street": "Maji Highway",
+    "city": "Isitoeta",
+    "state": "AL",
+    "zip": "27202"
+  },
+  "contact": {
+    "phone": "(710) 451-7475",
+    "servicePhone": "800265985"
+  },
+  "birthday": "1987-03-04T00:03:59.480Z",
+  "ip": "168.135.27.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Lanav kozran nehaam loc kueropu ocimavdiz zez duztowpo ombup tuz vep leholtu upabi ido. Fenenas dahuv tu bewkizuca dal renlupiki tem vafga vup vun sacuduwu vonfa halse kuvof nuvihuh inrarec. Jarowhic eraagire nuijhur kal fupsez zipezo lojav kejelmug acsaze zatgamgo pisanec wotob.",
+    "bio": "Ja asnud pop obga mevtugwe sev fip lepecer etoam lutwihiw taprola ka armo uce sejte hif ofu wudit. Jim puksuj ladka ofu meluisa li suto zulehsij ukviuz rihepopo safaj dagnelpa. Fa ilapef tufa gasuiso uj agu somfi vavkut be zudber nilunge cocur inju leuv deccene lup kasho ganuz. So gicefhik jir ogimibfir uvuubepip unam de ceako wij fajofep soldivo jicra ki tus is. Pu vutitwe ujviazi ma cuipocaz raso hoado pu rawto povvaje fer vebosto zesewce pinibu disideic. Cavaja tu redju oha otilu unamuen sinungi vod vef cepro cikagi hupovlot nakga."
+  },
+  "apiKey": "d5873d82c2cc802164563d82cd9a1a005b1101f8b610e77ef8917b5d8a5b9307",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
